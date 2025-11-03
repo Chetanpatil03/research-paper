@@ -76,8 +76,7 @@ main/
 * Model dynamically selected based on performance metrics
 ### User Interface 
 
-## 👨‍💻 Author
-
+``` ## 👨‍💻 Author
 **Chetan Bachchhav**
-* BCA Student | Machine Learning Enthusiast
+BCA Student | Machine Learning Enthusiast
 
