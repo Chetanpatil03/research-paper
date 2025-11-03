@@ -74,9 +74,15 @@ main/
 * Best Model: Random Forest (Approx. 89% accuracy)
 * Key Influencing Features: CGPA, Aptitude Score, Technical & Communication Skills
 * Model dynamically selected based on performance metrics
-### User Interface 
 
-``` ## 👨‍💻 Author
-**Chetan Bachchhav**
+### User Interface 
+<img width="1920" height="1080" alt="Screenshot 2025-11-02 231219" src="https://github.com/user-attachments/assets/a38e8866-5375-4cf7-b9b0-04e1aa97fdb5" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-02 231210" src="https://github.com/user-attachments/assets/e15ae6f3-3164-409c-9d15-f194195a0743" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-02 231152" src="https://github.com/user-attachments/assets/6199c4d6-f6c8-4afc-90d1-6e76104b902f" />
+
+
+
+## 👨‍💻 Author
+**Chetan Bachchhav**<br>
 BCA Student | Machine Learning Enthusiast
 
