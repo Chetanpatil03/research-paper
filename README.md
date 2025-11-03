@@ -1,4 +1,4 @@
-# 🎓 Student Placement Prediction System
+# 🎓 Student Placement Prediction using Machine Learning techniques
 
 ## 📘 Overview
 The **Student Placement Prediction System** uses Machine Learning to predict whether a student is likely to get placed based on their academic, technical, and personal attributes.  
