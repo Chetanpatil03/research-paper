@@ -84,5 +84,5 @@ main/
 
 ## 👨‍💻 Author
 **Chetan Bachchhav**<br>
-BCA Student | Machine Learning Enthusiast
+MCA Student | Machine Learning Enthusiast
 
