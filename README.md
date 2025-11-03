@@ -88,9 +88,3 @@ main/
 **Chetan Patil**
 BCA Graduate | Data Science Enthusiast | Machine Learning Developer
 
-```
-
----
-
-Would you like me to make this README **shorter and simpler** (like for a GitHub repo that’s just for personal learning)?
-```
