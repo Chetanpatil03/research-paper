@@ -15,7 +15,7 @@ It helps educational institutions identify students who may need additional trai
 - **Language:** Python  
 - **Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn  
 - **Framework:** Flask  
-- **IDE/Platform:** Google Colab, VS Code  
+- **IDE/Platform:** Google Colab, VS Code, Jupyter Notebook  
 - **Frontend:** HTML, CSS  
 
 ## 📂 Project Structure
@@ -37,7 +37,7 @@ main/
 ````
 
 ## ⚙️ How It Works
-1. **Data Collection:** Dataset of ~450 student records with academic and skill attributes.  
+1. **Data Collection:** Dataset of 300-400 student records with academic and skill attributes.  
 2. **Preprocessing:** Handling missing values, encoding, and scaling.  
 3. **Feature Selection:** Important features include CGPA, Technical Skills, Communication Skills, etc.  
 4. **Model Training:** Multiple ML models trained; the best one is selected automatically.  
@@ -74,16 +74,10 @@ main/
 * Best Model: Random Forest (Approx. 89% accuracy)
 * Key Influencing Features: CGPA, Aptitude Score, Technical & Communication Skills
 * Model dynamically selected based on performance metrics
-
-## 🔮 Future Enhancements
-
-* Integration with institutional ERP systems
-* Use of Deep Learning for more complex data
-* Explainable AI (XAI) to interpret model decisions
-* Larger and multi-institution datasets
+### User Interface 
 
 ## 👨‍💻 Author
 
-**Chetan Patil**
-BCA Graduate | Data Science Enthusiast | Machine Learning Developer
+**Chetan Bachchhav**
+* BCA Student | Machine Learning Enthusiast
 
