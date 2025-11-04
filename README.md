@@ -33,7 +33,8 @@ main/
 ├── Model.ipynb               # Jupyter notebook for data analysis and model training
 ├── app.py                    # Flask application for deployment
 ├── student_placement_data.csv # Dataset used for model training
-└── README.md                 # Project documentation
+|── README.md                 # Project documentation
+└── requirements.txt          # for installing nessesary Libraries needed to run Flask app
 
 ````
 
