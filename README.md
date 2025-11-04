@@ -3,6 +3,7 @@
 ## 📘 Overview
 The **Student Placement Prediction System** uses Machine Learning to predict whether a student is likely to get placed based on their academic, technical, and personal attributes.  
 It helps educational institutions identify students who may need additional training and improve overall placement outcomes.
+Worked along with Google colab : https://colab.research.google.com/drive/1bhJcZlS-zie4XKqIChOlEBpBBmQKjdAB?usp=sharing
 
 ## 🧠 Key Features
 - Predicts student placement status (Placed / Not Placed)  
