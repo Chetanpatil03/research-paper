@@ -1,4 +1,4 @@
-# 🎓 Student Placement Prediction using Machine Learning techniques
+# 🎓 Student Placement Prediction using Machine Learning Techniques
 
 ## 📘 Overview
 The **Student Placement Prediction System** uses Machine Learning to predict whether a student is likely to get placed based on their academic, technical, and personal attributes.  
@@ -47,7 +47,7 @@ main/
 ## 🚀 To Run the Project
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/student-placement-prediction.git
+   git clone https://github.com/Chetanpatil03/placement-prediction.git
 
 2. Navigate to the project folder
 
